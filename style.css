@@ -1,0 +1,90 @@
+body{
+  background-color: #EBEBEB;
+  color: #2C363F;
+  font-family:'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.6em;
+}
+
+h1{
+  color: #E75A7C;
+  font-size: 24px;
+  font-family:'Montserrat', sans-serif;
+  line-height: 1.8em;
+}
+
+h2{
+  color: #C2C1C2;
+  font-size: 21px;
+  font-family:'Montserrat', sans-serif;
+  line-height: 1.6em;
+}
+
+h3{
+  color: #C2C1C2;
+  font-size: 16px;
+  font-family:'Montserrat', sans-serif;
+  line-height: 1.6em;
+}
+
+a{
+  text-decoration: none;
+  color: #E75A7C;
+  text-align: center;
+}
+
+a:hover{
+  color: #C2C1C2;
+  text-decoration: underline;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.card {
+  background: white;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  width: 700px;
+  padding: 50px;
+  margin: 20px auto;
+}
+
+
+.paysage-wrap {
+  text-align: center;
+}
+
+.paysage {
+  width: 400px;
+}
+
+.alignment{
+  text-align: center;
+}
+
+
+td p {
+  text-align: justify;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin: 8px;
+  text-align: center;
+}
+
+
+
